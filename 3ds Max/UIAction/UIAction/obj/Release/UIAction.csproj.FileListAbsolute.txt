@@ -1,0 +1,5 @@
+C:\Users\cplantec\Desktop\Scripting\GitHub\C#\3ds Max\UIAction\UIAction\bin\Release\UIAction.dll
+C:\Users\cplantec\Desktop\Scripting\GitHub\C#\3ds Max\UIAction\UIAction\bin\Release\UIAction.pdb
+C:\Users\cplantec\Desktop\Scripting\GitHub\C#\3ds Max\UIAction\UIAction\obj\Release\UIAction.csprojResolveAssemblyReference.cache
+C:\Users\cplantec\Desktop\Scripting\GitHub\C#\3ds Max\UIAction\UIAction\obj\Release\UIAction.dll
+C:\Users\cplantec\Desktop\Scripting\GitHub\C#\3ds Max\UIAction\UIAction\obj\Release\UIAction.pdb
