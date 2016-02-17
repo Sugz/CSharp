@@ -1,0 +1,17 @@
+﻿<local:SugarWindow x:Class="TestApps.MainWindow"
+                 xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                 xmlns:local="clr-namespace:SugarControls;assembly=SugarControls"
+                 Title="MainWindow" Height="350" Width="250" >
+    <local:SugarButton Content="SugarButton" HorizontalAlignment="Left" Margin="62,132,0,0" VerticalAlignment="Top"/>
+
+
+
+
+
+
+
+
+
+
+</local:SugarWindow>

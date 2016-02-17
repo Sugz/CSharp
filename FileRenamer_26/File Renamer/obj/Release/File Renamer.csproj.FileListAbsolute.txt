@@ -1,0 +1,304 @@
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\Custom Class\ExplorerTvItem.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\Custom Class\TextBoxHint.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\Custom Class\ExplorerTvItem.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\Custom Class\Spinner.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\Custom Class\TextBoxHint.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\MainWindow.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\App.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\File_Renamer_MarkupCompile.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\File_Renamer_MarkupCompile.lref
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\App.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\Custom Class\Spinner.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\MainWindow.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\File_Renamer.g.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\File_Renamer.Properties.Resources.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\File Renamer.csproj.GenerateResource.Cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File Renamer\obj\Release\File Renamer.csprojResolveAssemblyReference.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File_Renamer.exe.config
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_07\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File_Renamer.exe.config
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\File Renamer.csprojResolveAssemblyReference.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\Custom Class\ExplorerTvItem.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\Custom Class\TextBoxHint.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\Custom Class\ExplorerTvItem.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\Custom Class\Spinner.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\Custom Class\TextBoxHint.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\MainWindow.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\App.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\File_Renamer_MarkupCompile.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\File_Renamer_MarkupCompile.lref
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\App.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\Custom Class\Spinner.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\MainWindow.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\File_Renamer.g.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\File_Renamer.Properties.Resources.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\obj\Release\File Renamer.csproj.GenerateResource.Cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\bin\Release\File_Renamer.exe.config
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\bin\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_08\File Renamer\bin\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\bin\Release\File_Renamer.exe.config
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\bin\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\bin\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\File Renamer.csprojResolveAssemblyReference.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\Custom Class\ExplorerTvItem.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\Custom Class\TextBoxHint.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\Custom Class\ExplorerTvItem.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\Custom Class\Spinner.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\Custom Class\TextBoxHint.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\MainWindow.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\App.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\File_Renamer_MarkupCompile.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\File_Renamer_MarkupCompile.lref
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\App.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\Custom Class\Spinner.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\MainWindow.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\File_Renamer.g.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\File_Renamer.Properties.Resources.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\File Renamer.csproj.GenerateResource.Cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_09\File Renamer\obj\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\bin\Release\File_Renamer.exe.config
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\bin\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\bin\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\File Renamer.csprojResolveAssemblyReference.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\Custom Class\ExplorerTvItem.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\Custom Class\TextBoxHint.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\Custom Class\ExplorerTvItem.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\Custom Class\Spinner.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\Custom Class\TextBoxHint.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\MainWindow.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\App.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\File_Renamer_MarkupCompile.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\File_Renamer_MarkupCompile.lref
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\App.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\Custom Class\Spinner.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\MainWindow.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\File_Renamer.g.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\File_Renamer.Properties.Resources.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_10\File Renamer\obj\Release\File Renamer.csproj.GenerateResource.Cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\bin\Release\File_Renamer.exe.config
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\bin\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\bin\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\File Renamer.csprojResolveAssemblyReference.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\Custom Class\ExplorerTvItem.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\Custom Class\TextBoxHint.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\Custom Class\ExplorerTvItem.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\Custom Class\Spinner.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\Custom Class\TextBoxHint.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\MainWindow.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\App.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\File_Renamer_MarkupCompile.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\File_Renamer_MarkupCompile.lref
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\App.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\Custom Class\Spinner.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\MainWindow.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\File_Renamer.g.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\File_Renamer.Properties.Resources.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\File Renamer.csproj.GenerateResource.Cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_11\File Renamer\obj\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\bin\Release\File_Renamer.exe.config
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\bin\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\bin\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\File Renamer.csprojResolveAssemblyReference.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\Custom Class\ExplorerTvItem.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\Custom Class\TextBoxHint.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\Custom Class\ExplorerTvItem.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\Custom Class\Spinner.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\Custom Class\TextBoxHint.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\MainWindow.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\App.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\File_Renamer_MarkupCompile.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\File_Renamer_MarkupCompile.lref
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\App.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\Custom Class\Spinner.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\MainWindow.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\File_Renamer.g.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\File_Renamer.Properties.Resources.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\File Renamer.csproj.GenerateResource.Cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\Custom Class\DataGridMenu.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_12\File Renamer\obj\Release\Custom Class\DataGridMenu.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\bin\Release\File_Renamer.exe.config
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\bin\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\bin\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\File Renamer.csprojResolveAssemblyReference.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\Custom Class\DataGridMenu.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\Custom Class\ExplorerTvItem.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\Custom Class\TextBoxHint.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\Custom Class\DataGridMenu.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\Custom Class\ExplorerTvItem.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\Custom Class\Spinner.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\Custom Class\TextBoxHint.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\MainWindow.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\App.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\File_Renamer_MarkupCompile.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\File_Renamer_MarkupCompile.lref
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\App.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\Custom Class\Spinner.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\MainWindow.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\File_Renamer.g.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\File_Renamer.Properties.Resources.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\File Renamer.csproj.GenerateResource.Cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_13\File Renamer\obj\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\bin\Release\File_Renamer.exe.config
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\bin\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\bin\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\File Renamer.csprojResolveAssemblyReference.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\Custom Class\DataGridMenu.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\Custom Class\ExplorerTvItem.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\Custom Class\TextBoxHint.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\Custom Class\DataGridMenu.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\Custom Class\ExplorerTvItem.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\Custom Class\Spinner.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\Custom Class\TextBoxHint.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\MainWindow.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\App.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\File_Renamer_MarkupCompile.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\File_Renamer_MarkupCompile.lref
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\App.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\Custom Class\Spinner.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\MainWindow.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\File_Renamer.g.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\File_Renamer.Properties.Resources.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_14\File Renamer\obj\Release\File Renamer.csproj.GenerateResource.Cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\bin\Release\File_Renamer.exe.config
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\bin\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\bin\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\File Renamer.csprojResolveAssemblyReference.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\Custom Class\DataGridMenu.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\Custom Class\ExplorerTvItem.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\Custom Class\TextBoxHint.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\Custom Class\DataGridMenu.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\Custom Class\ExplorerTvItem.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\Custom Class\Spinner.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\Custom Class\TextBoxHint.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\MainWindow.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\App.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\File_Renamer_MarkupCompile.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\File_Renamer_MarkupCompile.lref
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\App.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\Custom Class\Spinner.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\MainWindow.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\File_Renamer.g.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\File_Renamer.Properties.Resources.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_15\File Renamer\obj\Release\File Renamer.csproj.GenerateResource.Cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\bin\Release\File_Renamer.exe.config
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\File Renamer.csprojResolveAssemblyReference.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\Custom Class\DataGridMenu.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\Custom Class\ExplorerTvItem.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\Custom Class\TextBoxHint.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\Custom Class\DataGridMenu.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\Custom Class\ExplorerTvItem.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\Custom Class\Spinner.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\Custom Class\TextBoxHint.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\MainWindow.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\App.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\File_Renamer_MarkupCompile.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\File_Renamer_MarkupCompile.lref
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\src\DataGridMenu.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\src\ExplorerTvItem.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\src\TextBoxHint.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\src\DataGridMenu.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\src\ExplorerTvItem.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\src\Spinner.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_16\File Renamer\obj\Release\src\TextBoxHint.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\bin\Release\File_Renamer.exe.config
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\bin\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\bin\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\File Renamer.csprojResolveAssemblyReference.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\src\DataGridMenu.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\src\ExplorerTvItem.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\src\TextBoxHint.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\src\DataGridMenu.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\src\ExplorerTvItem.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\src\Spinner.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\src\TextBoxHint.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\MainWindow.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\App.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\File_Renamer_MarkupCompile.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\File_Renamer_MarkupCompile.lref
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\App.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\src\Spinner.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\MainWindow.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\File_Renamer.g.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\File_Renamer.Properties.Resources.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_17\File Renamer\obj\Release\File Renamer.csproj.GenerateResource.Cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\File_Renamer.exe.config
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\File Renamer.csprojResolveAssemblyReference.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\src\DataGridMenu.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\src\ExplorerTvItem.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\src\TextBoxHint.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\src\DataGridMenu.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\src\ExplorerTvItem.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\src\Spinner.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\src\TextBoxHint.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\MainWindow.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\App.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\File_Renamer_MarkupCompile.cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\File_Renamer_MarkupCompile.lref
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\File_Renamer.exe
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\File_Renamer.pdb
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\App.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\src\Spinner.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\MainWindow.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\File_Renamer.g.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\File_Renamer.Properties.Resources.resources
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\File Renamer.csproj.GenerateResource.Cache
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\src\MessageUser.baml
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\obj\Release\src\MessageUser.g.cs
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\Microsoft.Expression.Interactions.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\System.Windows.Interactivity.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\ru\Microsoft.Expression.Interactions.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\ru\System.Windows.Interactivity.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Travail\Projets\Visual Studio\FileRenamer\Tests Build\FileRenamer_18\File Renamer\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll

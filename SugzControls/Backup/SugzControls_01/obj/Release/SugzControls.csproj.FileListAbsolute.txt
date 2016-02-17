@@ -1,0 +1,14 @@
+D:\Travail\C#\SugzControls\SugzControls\bin\Release\SugzControls.dll.config
+D:\Travail\C#\SugzControls\SugzControls\bin\Release\SugzControls.dll
+D:\Travail\C#\SugzControls\SugzControls\bin\Release\SugzControls.pdb
+D:\Travail\C#\SugzControls\SugzControls\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Travail\C#\SugzControls\SugzControls\obj\Release\SugzControls_MarkupCompile.cache
+D:\Travail\C#\SugzControls\SugzControls\obj\Release\SugzControls_MarkupCompile.lref
+D:\Travail\C#\SugzControls\SugzControls\obj\Release\Styles\SugzButtonStyle.baml
+D:\Travail\C#\SugzControls\SugzControls\obj\Release\SugzControls.g.resources
+D:\Travail\C#\SugzControls\SugzControls\obj\Release\SugzControls.Properties.Resources.resources
+D:\Travail\C#\SugzControls\SugzControls\obj\Release\SugzControls.csproj.GenerateResource.Cache
+D:\Travail\C#\SugzControls\SugzControls\obj\Release\SugzControls.dll
+D:\Travail\C#\SugzControls\SugzControls\obj\Release\SugzControls.pdb
+D:\Travail\C#\SugzControls\SugzControls\obj\Release\SugzControls.csprojResolveAssemblyReference.cache
+D:\Travail\C#\SugzControls\SugzControls\obj\Release\Styles\SugzWindowStyle.baml

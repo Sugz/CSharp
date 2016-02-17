@@ -1,0 +1,14 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:SugzControls">
+
+
+    <Style x:Key="SugzWindowStyle" TargetType="{x:Type local:SugzWindow}">
+        <Setter Property="SnapsToDevicePixels" Value="True"/>
+        <Setter Property="UseLayoutRounding" Value="True"/>
+        <Setter Property="Background" Value="#FF444444"/>
+        <Setter Property="Title" Value="WPF Window"/>
+        <Setter Property="WindowStyle" Value="ToolWindow"/>
+    </Style>
+
+</ResourceDictionary>

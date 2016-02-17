@@ -1,0 +1,26 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:SugarControls">
+
+
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/SugarControls;component/Styles/BaseWindowStyle.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+
+
+    <!-- Window Style -->
+    <Style x:Key="VSWindowStyle" TargetType="{x:Type local:SugarWindow}" BasedOn="{StaticResource BaseWindowStyle}">
+        <Setter Property="Background" Value="#FF2D2D30"/>
+        <Setter Property="BorderBrush" Value="#FF007ACC"/>
+        <Setter Property="BorderThickness" Value="1, 1, 1, 1"/>
+        <Setter Property="OverBrush" Value="#19FFFFFF"/>
+        <Setter Property="PressedBrush" Value="#FF007ACC"/>
+        <Setter Property="HighLightBrush" Value="#FF007ACC"/>
+        <Style.Triggers>
+            <Trigger Property="IsActive" Value="False">
+                <Setter Property="BorderBrush" Value="#FF424245"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+</ResourceDictionary>

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDll", "TestApps\TestDll.csproj", "{02E32312-23B7-47CD-93FF-DE0A80D57235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SugarControls", "SugarControls\SugarControls.csproj", "{BF3644C6-93DD-4148-8C14-7B8229279DDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{94FAEEBB-4011-4C78-87D5-F8D3AB1C12D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02E32312-23B7-47CD-93FF-DE0A80D57235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E32312-23B7-47CD-93FF-DE0A80D57235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E32312-23B7-47CD-93FF-DE0A80D57235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E32312-23B7-47CD-93FF-DE0A80D57235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3644C6-93DD-4148-8C14-7B8229279DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3644C6-93DD-4148-8C14-7B8229279DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3644C6-93DD-4148-8C14-7B8229279DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3644C6-93DD-4148-8C14-7B8229279DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94FAEEBB-4011-4C78-87D5-F8D3AB1C12D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94FAEEBB-4011-4C78-87D5-F8D3AB1C12D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94FAEEBB-4011-4C78-87D5-F8D3AB1C12D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94FAEEBB-4011-4C78-87D5-F8D3AB1C12D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,29 @@
+﻿<ResourceDictionary x:Class="SugarControls.Styles.VSWindowStyle"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" >
+
+
+    <!-- Body Style -->
+    <Style x:Key="MainBorderStyle" TargetType="Border" >
+        <Setter Property="Background" Value="#2d2d30" />
+        <Setter Property="BorderBrush" Value="#017acc" />
+        <Setter Property="BorderThickness" Value="1, 1, 1, 1" />
+
+    </Style>
+
+
+    <!-- Window Template -->
+    <ControlTemplate x:Key="VSWindowTemplate" TargetType="Window">
+        <Border x:Name="MainBorder" Style="{StaticResource MainBorderStyle}" />
+    </ControlTemplate>
+
+
+    <!-- Window Style -->
+    <Style x:Key="VSWindowStyle" TargetType="Window">
+        <Setter Property="Template" Value="{StaticResource VSWindowTemplate}" />
+    </Style>
+
+</ResourceDictionary>

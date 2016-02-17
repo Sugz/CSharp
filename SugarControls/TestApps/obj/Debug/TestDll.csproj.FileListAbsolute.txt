@@ -1,0 +1,36 @@
+D:\Cloud Station\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\bin\Debug\TestApps.exe.config
+D:\Cloud Station\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\TestApps.exe
+D:\Cloud Station\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\TestApps.pdb
+D:\Cloud Station\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\bin\Debug\TestApps.exe
+D:\Cloud Station\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\bin\Debug\TestApps.pdb
+D:\Cloud Station\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\bin\Debug\SugarControls.dll
+D:\Cloud Station\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\bin\Debug\SugarControls.pdb
+D:\Cloud Station\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\TestDll.csprojResolveAssemblyReference.cache
+D:\Cloud Station\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\MainWindow.baml
+D:\Cloud Station\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\MainWindow.g.cs
+D:\Cloud Station\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\App.g.cs
+D:\Cloud Station\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\TestApps_MarkupCompile.cache
+D:\Cloud Station\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\TestApps.g.resources
+D:\Cloud Station\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\TestApps.Properties.Resources.resources
+D:\Cloud Station\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\TestDll.csproj.GenerateResource.Cache
+D:\Cloud Station\Travail\Projets\Visual Studio\3ds Max\SugarControls old\TestApps\bin\Debug\TestApps.exe.config
+D:\Cloud Station\Travail\Projets\Visual Studio\3ds Max\SugarControls old\TestApps\obj\Debug\TestApps.exe
+D:\Cloud Station\Travail\Projets\Visual Studio\3ds Max\SugarControls old\TestApps\obj\Debug\TestApps.pdb
+\\DISKSTATION\Temp\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\bin\Debug\TestApps.exe.config
+\\DISKSTATION\Temp\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\TestApps.exe
+\\DISKSTATION\Temp\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\TestApps.pdb
+\\DISKSTATION\Temp\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\bin\Debug\TestApps.exe
+\\DISKSTATION\Temp\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\bin\Debug\TestApps.pdb
+\\DISKSTATION\Temp\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\bin\Debug\SugarControls.dll
+\\DISKSTATION\Temp\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\bin\Debug\SugarControls.pdb
+\\DISKSTATION\Temp\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\TestDll.csprojResolveAssemblyReference.cache
+\\DISKSTATION\Temp\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\MainWindow.baml
+\\DISKSTATION\Temp\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\MainWindow.g.cs
+\\DISKSTATION\Temp\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\App.g.cs
+\\DISKSTATION\Temp\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\TestApps_MarkupCompile.cache
+\\DISKSTATION\Temp\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\TestApps.g.resources
+\\DISKSTATION\Temp\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\TestApps.Properties.Resources.resources
+\\DISKSTATION\Temp\Travail\Projets\Visual Studio\3ds Max\SugarControls\TestApps\obj\Debug\TestDll.csproj.GenerateResource.Cache
+D:\Travail\C#\SugarControls\TestApps\bin\Debug\TestApps.exe.config
+D:\Travail\C#\SugarControls\TestApps\obj\Debug\TestApps.exe
+D:\Travail\C#\SugarControls\TestApps\obj\Debug\TestApps.pdb
