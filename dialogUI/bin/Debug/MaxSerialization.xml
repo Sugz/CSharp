@@ -1,0 +1,457 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MaxSerialization</name>
+    </assembly>
+    <members>
+        <member name="T:MaxSerialization.XmlSerializer">
+            <summary>
+            Transforms objects into and from XML.
+            </summary>
+            <remarks>
+            <para>
+            MaxSerialization.XmlSerializer replaces System.Xml.Serialization.XmlSerializer.
+            The Microsoft class has two significant limitations that this class seeks to
+            correct. Most importantly, the original class would use dynamic code 
+            generation to create a serializer in a dynamic assembly for a given type, 
+            and if the given type included anything more than the basic mscorlib types 
+            (int, String, etc), a second XmlSerializer would have to be created in yet
+            another dynamic assembly. It seems this second assembly would leak at 
+            program exit and cause Max to crash on exit as it attempted to clean up
+            the dynamically generated assembly after the CLR had shut down. This
+            replacement class does not use dynamic assembly loading.
+            </para>
+            <para>
+            The second limitation is in how the default XmlSerializer handles list types.
+            It ignores any properties on a list and serializes only the list's elements.
+            This replacement class serializes the list elements as well as any 
+            serializable properties.
+            </para>
+            <para>
+            MaxSerialization.XmlSerializer will serialize and deserialize objects and
+            properties meeting the following requirements:
+            <list type="bullet">
+            <item>
+            The serialized class must have a default constructor. During deserialization,
+            the result object will be constructed from its default constructor, and then
+            each serialized property value will be applied to the result object in turn.
+            </item>
+            <item>
+            Each of the property values to be serialized must be public, non-index, and 
+            read-write. Any non-public, indexed, write-only, or read-only properties 
+            will be ignored.
+            </item>
+            <item>
+            All public, non-indexed, read-write properties must also be serializable, 
+            following these same requirements.
+            </item>
+            <item>
+            Array's must be single-dimensional, e.g. int[10]. Multidimensional arrays
+            are not supported.
+            </item>
+            <item>
+            A list will be serialized if it supports the System.Collections.IList 
+            interface. The list elements will be serialized to XML in their 
+            enumeration order.  During deserialization, deserialized elements are added 
+            back to the list through IList.Add.
+            </item>
+            <item>
+            The serialized class must not have a property named __Elements__.  This
+            name is reserved for use by XmlSerializer in order to serialize lists.
+            </item>
+            </list>
+            </para>
+            <para>
+            Note that this class uses Reflection and outputs to XML using Microsoft's
+            DOM implementation (XmlDocument).  If you need screaming performance, look
+            elsewhere.
+            </para>
+            </remarks>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.IsConvertible(System.Type)">
+            <summary>
+            Is the given type directly convertible to XML text?
+            </summary>
+            <param name="type">Type to inspect.</param>
+            <returns>
+            true if the type can be directly converted to XML text, false if the type
+            must be represented as a full element
+            </returns>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.ConvertValue(System.Object)">
+            <summary>
+            Utility method for converting a simple object as recognized by 
+            IsConvertible to a locale-independent XML String.
+            </summary>
+            <param name="obj">Value to convert.</param>
+            <returns>Locale-independent string representation of the given value,
+            suitable for use in an XML document.</returns>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.ConvertToValue(System.Type,System.String)">
+            <summary>
+            Convert the given text to a value of the given type.  The text is expected
+            to be the result of a previous call to ConvertValue, and propertyType
+            must satisfy IsConvertible.
+            </summary>
+            <param name="propertyType">
+            Type to which to convert the given text.
+            </param>
+            <param name="text">
+            Serialized value stored as text.
+            </param>
+            <returns>A new Object restored to the serialized state.</returns>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.Serialize(System.IO.Stream,System.Object)">
+            <summary>
+            Serialize an object into an XML document.
+            </summary>
+            <param name="stream">Destination output stream.</param>
+            <param name="root">Object to serialize.</param>
+            <exception>
+            The object is not serializable, or an error occurs writing to the 
+            destination output object.
+            </exception>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.Serialize(System.String,System.Object)">
+            <summary>
+            Serialize an object into an XML document.
+            </summary>
+            <param name="filename">Destination output file path.</param>
+            <param name="root">Object to serialize.</param>
+            <exception>
+            The object is not serializable, or an error occurs writing to the 
+            destination output object.
+            </exception>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.Serialize(System.Text.StringBuilder,System.Object)">
+            <summary>
+            Serialize an object into an XML document.
+            </summary>
+            <param name="stringBuilder">Destination output StringBuilder.</param>
+            <param name="root">Object to serialize.</param>
+            <exception>
+            The object is not serializable, or an error occurs writing to the 
+            destination output object.
+            </exception>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.Serialize(System.IO.TextWriter,System.Object)">
+            <summary>
+            Serialize an object into an XML document.
+            </summary>
+            <param name="writer">Destination output TextWriter.</param>
+            <param name="root">Object to serialize.</param>
+            <exception>
+            The object is not serializable, or an error occurs writing to the 
+            destination output object.
+            </exception>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.Serialize(System.Xml.XmlWriter,System.Object)">
+            <summary>
+            Serialize an object into an XML document.
+            </summary>
+            <remarks>
+            By passing in the destination XmlWriter, this overload allows the client
+            to specify different XmlWriterSettings to alter the output format.
+            </remarks>
+            <param name="writer">Destination output XmlWriter.</param>
+            <param name="root">Object to serialize.</param>
+            <exception>
+            The object is not serializable, or an error occurs writing to the 
+            destination output object.
+            </exception>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.IsFormattableAndParsable(System.Type)">
+            <summary>
+            Query whether the given type supports IFormattable, and exposes a public 
+            static Parse(String) method.
+            </summary>
+            <param name="type">Type to examine.</param>
+            <returns>
+            true if type is IFormattable and has a public static Parse(String) method,
+            false otherwise.
+            </returns>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.GetParseMethod(System.Type)">
+            <summary>
+            Get a public static Parse(String) method from the given type through 
+            reflection.
+            </summary>
+            <param name="type">Type to examine.</param>
+            <returns>
+            A MethodInfo object for the Type's Parse method, or null if no such method
+            is found.
+            </returns>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.ParseParsable(System.Type,System.String)">
+            <summary>
+            Use the given Type's public static Parse(String) method to transform
+            the text representation into a runtime value.
+            </summary>
+            <param name="type">Desired result type.</param>
+            <param name="text">Text to parse.</param>
+            <returns>A new object with the value represented by the given text.</returns>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.VerifySerializable(System.Object)">
+            <summary>
+            Verify that the given object meets the serialization requirements, 
+            throwing a SerializationException if the requirements are not met.
+            </summary>
+            <param name="obj">Object to verify.</param>
+            <exception cref="T:System.Runtime.Serialization.SerializationException">
+            The object is not serializable.
+            </exception>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.SerializeObject(System.Xml.XmlDocument,System.Object)">
+            <summary>
+            Serialize the given object inside a typename element.
+            </summary>
+            <param name="document">
+            XML document used to create the object element.
+            </param>
+            <param name="obj">
+            Object to serialize.
+            </param>
+            <returns>
+            XmlNode representing the serialized object. The client is responsible
+            for appending this node to a parent node.
+            </returns>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.SerializeList(System.Xml.XmlDocument,System.Xml.XmlNode,System.Collections.IList)">
+            <summary>
+            Serialize each of the elements in the given list into object elements,
+            appending them as children to the given parent XmlNode (usually 
+            an __Elements__ node).
+            </summary>
+            <param name="document">
+            XML document used to create object elements.
+            </param>
+            <param name="parentNode">
+            Created child nodes will be added to this parent XmlNode.
+            </param>
+            <param name="list">
+            IList containing elements to serialize.
+            </param>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.SerializeProperty(System.Xml.XmlDocument,System.Object)">
+            <summary>
+            Serialize a property value, using a typename element only if the value
+            is not directly convertible to XML. Convertible elements are directly
+            converted to untagged XML text content.
+            </summary>
+            <param name="document">
+            XML document used to create the object element.
+            </param>
+            <param name="value">
+            Object to serialize.
+            </param>
+            <returns>
+            XmlNode representing the serialized object. The client is responsible
+            for appending this node to a parent node.
+            </returns>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.CreateTextNode(System.Xml.XmlDocument,System.Object)">
+            <summary>
+            Convert the given Object to an XML text node.
+            </summary>
+            <param name="document">
+            XML document used to create the object element.
+            </param>
+            <param name="obj">
+            Object to convert to text.
+            </param>
+            <returns>
+            XML text node representing the current node. The client is responsible for
+            appending this node to a parent node.
+            </returns>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.CreateNullElement(System.Xml.XmlDocument)">
+            <summary>
+            Create an element using the NullElementTag.
+            </summary>
+            <param name="document">
+            XML document used to create the object element.
+            </param>
+            <returns>A new XML element representing null</returns>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.CanSerializeProperty(System.Reflection.PropertyInfo)">
+            <summary>
+            Does the given property support serialization?
+            </summary>
+            <remarks>
+            A property can be serialized if it supports both reading and writing,
+            and if it does not require index parameters.
+            </remarks>
+            <param name="property">The property to inspect</param>
+            <returns>
+            true if the property may be serialized, false if it should be ignored.
+            </returns>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.Deserialize(System.IO.Stream)">
+            <summary>
+            Deserialize the XML document in the given stream into an Object.
+            </summary>
+            <param name="stream">Stream containing an XML document.</param>
+            <returns>A new Object restored to the serialized state.</returns>
+            <exception>
+            The XML document cannot be read, or a target object no longer supports
+            serialization. (The serialization process performs some verification to
+            determine that the object supports deserialization, but it does not
+            recognize if a property setter will throw an exception, or if its 
+            IList.Add method will throw. It is also possible for a class
+            implementation to have changed in an incompatible way since it was 
+            serialized.
+            </exception>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.Deserialize(System.String)">
+            <summary>
+            Deserialize the XML document in the given file into an Object.
+            </summary>
+            <param name="filename">Path pointing to an XML document file.</param>
+            <returns>A new Object restored to the serialized state.</returns>
+            <exception>
+            The XML document cannot be read, or a target object no longer supports
+            serialization. (The serialization process performs some verification to
+            determine that the object supports deserialization, but it does not
+            recognize if a property setter will throw an exception, or if its 
+            IList.Add method will throw. It is also possible for a class
+            implementation to have changed in an incompatible way since it was 
+            serialized.
+            </exception>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.Deserialize(System.IO.TextReader)">
+            <summary>
+            Deserialize the XML document in the given TextReader into an Object.
+            </summary>
+            <param name="textReader">TextReader containing an XML document.</param>
+            <returns>A new Object restored to the serialized state.</returns>
+            <exception>
+            The XML document cannot be read, or a target object no longer supports
+            serialization. (The serialization process performs some verification to
+            determine that the object supports deserialization, but it does not
+            recognize if a property setter will throw an exception, or if its 
+            IList.Add method will throw. It is also possible for a class
+            implementation to have changed in an incompatible way since it was 
+            serialized.
+            </exception>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.Deserialize(System.Xml.XmlReader)">
+            <summary>
+            Deserialize the XML document in the given XmlReader into an Object.
+            </summary>
+            <param name="xmlReader">XmlReader containing an XML document.</param>
+            <returns>A new Object restored to the serialized state.</returns>
+            <exception>
+            The XML document cannot be read, or a target object no longer supports
+            serialization. (The serialization process performs some verification to
+            determine that the object supports deserialization, but it does not
+            recognize if a property setter will throw an exception, or if its 
+            IList.Add method will throw. It is also possible for a class
+            implementation to have changed in an incompatible way since it was 
+            serialized.
+            </exception>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.Deserialize(System.Xml.XmlDocument)">
+            <summary>
+            Deserialize the given XmlDocument into an Object.
+            </summary>
+            <param name="document">XML document.</param>
+            <returns>A new Object restored to the serialized state.</returns>
+            <exception>
+            The XML document cannot be read, or a target object no longer supports
+            serialization. (The serialization process performs some verification to
+            determine that the object supports deserialization, but it does not
+            recognize if a property setter will throw an exception, or if its 
+            IList.Add method will throw. It is also possible for a class
+            implementation to have changed in an incompatible way since it was 
+            serialized.
+            </exception>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.DeserializeXml(System.String)">
+            <summary>
+            Deserialize the given xml document text into an Object.
+            </summary>
+            <param name="xmlContent">XML document text as a string.</param>
+            <returns>A new Object restored to the serialized state.</returns>
+            <exception>
+            The XML document cannot be read, or a target object no longer supports
+            serialization. (The serialization process performs some verification to
+            determine that the object supports deserialization, but it does not
+            recognize if a property setter will throw an exception, or if its 
+            IList.Add method will throw. It is also possible for a class
+            implementation to have changed in an incompatible way since it was 
+            serialized.
+            </exception>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.DeserializeObject(System.Xml.XmlNode)">
+            <summary>
+            Deserialize the given XmlNode into a new Object.
+            </summary>
+            <param name="node">
+            XML element, enclosed in a typename or null tag, 
+            representing an object's serialized state.
+            </param>
+            <returns>
+            A new object restored from the serialized state.
+            </returns>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.FindType(System.String)">
+            <summary>
+            Search all currently loaded assemblies for the requested type.
+            </summary>
+            <param name="typeName">Name of the type to find.</param>
+            <returns>The requested type if it is found.</returns>
+            <exception cref="T:System.Runtime.Serialization.SerializationException">
+            The type is not found.
+            </exception>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.DeserializeList(System.Collections.IList,System.Xml.XmlNode)">
+            <summary>
+            Deserialize list elements, adding them as elements to the given list 
+            object.
+            </summary>
+            <param name="targetList">List object to populate.</param>
+            <param name="node">
+            Parent list elements node (__Elements__).  Child nodes will be enumerated,
+            deserialized as objects, and added to the given list.
+            </param>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.DeserializeValue(System.Type,System.Xml.XmlNode)">
+            <summary>
+            Deserialize a property value as the given type.
+            </summary>
+            <param name="propertyType">
+            Target type for the serialized value. This is used if the given node is 
+            an XML text node to determine the target type to which to convert the
+            text.
+            </param>
+            <param name="node">Serialized property value.</param>
+            <returns>A new Object restored to the serialized state.</returns>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.ConstructFromType(System.Type)">
+            <summary>
+            Construct an object of the requested type using its default constructor.
+            </summary>
+            <param name="type">
+            Type to construct.
+            </param>
+            <returns>
+            A new object of the given type.
+            </returns>
+            <exception cref="T:System.Runtime.Serialization.SerializationException">
+            The given type does not have a default constructor.
+            </exception>
+        </member>
+        <member name="M:MaxSerialization.XmlSerializer.ConstructArray(System.Type,System.Collections.ICollection)">
+            <summary>
+            Construct a new array of the given array type, filled with the contents
+            of the given ICollection.
+            </summary>
+            <param name="type">Type of the array to be constructed.</param>
+            <param name="contents">Elements to be copied into the new array.</param>
+            <returns>
+            A new array of the given array type, filled with the contents
+            of the given ICollection.
+            </returns>
+        </member>
+    </members>
+</doc>
