@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippets  xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Control</Title>
+			<Shortcut>control</Shortcut>
+			<Description>Code snippet for creating a control</Description>
+			<Author>Clément Plantec</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal>
+					<ID>name</ID>
+					<ToolTip>Class name</ToolTip>
+					<Default>MyControl</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="csharp"><![CDATA[using System.Windows;
+using System.Windows.Controls;
+
+	public class $name$$end$
+	{
+
+
+		#region Constructors
+
+
+		static $name$()
+		{
+			DefaultStyleKeyProperty.OverrideMetadata(typeof($name$), new FrameworkPropertyMetadata(typeof($name$)));
+		}
+		public $name$()
+		{
+
+		}
+		
+
+		#endregion Constructors
+		
+
+	}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>
