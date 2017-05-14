@@ -1,0 +1,4 @@
+mklink /d "C:\Users\Clem\Documents\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets" "D:\Travail\GitHub\CSharp\Code Snippets\Visual C#\My Code Snippets"
+
+
+mklink /d "C:\Users\Clem\Documents\Visual Studio 2017\Code Snippets\XAML\My XAML Snippets" "D:\Travail\GitHub\CSharp\Code Snippets\XAML\My XAML Snippets"

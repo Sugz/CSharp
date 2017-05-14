@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippets  xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>Control</Title>
+      <Shortcut>control</Shortcut>
+      <Description>Code snippet for creating a control ResourceDictionary</Description>
+      <Author>Clément Plantec</Author>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Code Language="XAML"><![CDATA[<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+          xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+          xmlns:local="clr-namespace:SugzTools.Controls">
+
+    <!--Merged Dictionaries-->
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/SugzTools;component/Themes/MaxStyles.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+
+
+    $end$
+
+</ResourceDictionary>]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
