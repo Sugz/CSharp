@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToCopyEventHandlers", "HowToCopyEventHandlers\HowToCopyEventHandlers.csproj", "{B500544D-B71E-493F-9712-03A7C98D119B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToCopyEventHandlers.Sample", "HowToCopyEventHandlers.Helpers\HowToCopyEventHandlers.Sample.csproj", "{25BD84B4-942F-49E7-8256-C9130AF91183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B500544D-B71E-493F-9712-03A7C98D119B}.Debug|x86.ActiveCfg = Debug|x86
+		{B500544D-B71E-493F-9712-03A7C98D119B}.Debug|x86.Build.0 = Debug|x86
+		{B500544D-B71E-493F-9712-03A7C98D119B}.Release|x86.ActiveCfg = Release|x86
+		{B500544D-B71E-493F-9712-03A7C98D119B}.Release|x86.Build.0 = Release|x86
+		{25BD84B4-942F-49E7-8256-C9130AF91183}.Debug|x86.ActiveCfg = Debug|x86
+		{25BD84B4-942F-49E7-8256-C9130AF91183}.Debug|x86.Build.0 = Debug|x86
+		{25BD84B4-942F-49E7-8256-C9130AF91183}.Release|x86.ActiveCfg = Release|x86
+		{25BD84B4-942F-49E7-8256-C9130AF91183}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

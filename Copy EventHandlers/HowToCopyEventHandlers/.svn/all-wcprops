@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/posts/!svn/ver/12/copy-eventhandlers-from-one-control-to-another/HowToCopyEventHandlers/HowToCopyEventHandlers
+END
+CopyEventHandlers.cs
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/posts/!svn/ver/13/copy-eventhandlers-from-one-control-to-another/HowToCopyEventHandlers/HowToCopyEventHandlers/CopyEventHandlers.cs
+END
+CopyEventHandlersExtensionMethods.cs
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/posts/!svn/ver/12/copy-eventhandlers-from-one-control-to-another/HowToCopyEventHandlers/HowToCopyEventHandlers/CopyEventHandlersExtensionMethods.cs
+END
+HowToCopyEventHandlers.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/posts/!svn/ver/12/copy-eventhandlers-from-one-control-to-another/HowToCopyEventHandlers/HowToCopyEventHandlers/HowToCopyEventHandlers.csproj
+END

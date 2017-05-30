@@ -1,0 +1,34 @@
+﻿
+namespace HowToCopyEventHandlers {
+    using System;
+    using System.Collections.Generic;
+    using System.ComponentModel;
+    using System.Linq;
+    using System.Reflection;
+    using System.Windows.Forms;
+
+    public static class CopyEventsHandlersExtensionMethods {
+        public static void CopyTo(this Dictionary<string, Dictionary<object, Delegate[]>> handlers, Control destination) {
+            var helper = new CopyEventHandlers();
+            foreach (var eventName in handlers.Keys) {
+                var innerKeyFieldName = helper.KeyEventNameMapping.First(x => x.Value == eventName).Key;
+
+                var info = typeof(Control).GetField(innerKeyFieldName,
+                    BindingFlags.GetField | BindingFlags.Static | BindingFlags.NonPublic | BindingFlags.DeclaredOnly);
+                
+                if (info != null) {
+                    var innerKeyFieldVal = info.GetValue(destination);
+
+                    var targetType = destination.GetType();
+                    var targetEventsInfo = targetType.GetProperty("Events", BindingFlags.Instance | BindingFlags.NonPublic);
+                    var targetEventHandlerList = (EventHandlerList)targetEventsInfo.GetValue(destination, null);
+
+                    var delegates = handlers[eventName].First().Value;
+                    foreach (var @delegate in delegates) {
+                        targetEventHandlerList.AddHandler(innerKeyFieldVal, @delegate);
+                    }
+                }
+            }
+        }
+    }
+}
