@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>propfull</Title>
+      <Shortcut>mvvmlightprop</Shortcut>
+      <Description>Clément Plantec</Description>
+      <Author>Clément Plantec</Author>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>type</ID>
+          <ToolTip>Type de propriété</ToolTip>
+          <Default>int</Default>
+        </Literal>
+        <Literal>
+          <ID>property</ID>
+          <ToolTip>Nom de la propriété</ToolTip>
+          <Default>MyProperty</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="csharp"><![CDATA[private $type$ _$property$;
+  /// <summary>
+  /// 
+  /// </summary>
+  [Description(""), Category("")]
+  // [Browsable(false)]
+  public $type$ $property$
+  {
+    get { return _$property$;}
+    set { Set(ref _$property$, value); }
+  }
+  $end$]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>

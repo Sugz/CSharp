@@ -3,7 +3,7 @@
   <CodeSnippet Format="1.0.0">
     <Header>
       <Title>onprop</Title>
-      <Shortcut>onprop</Shortcut>
+      <Shortcut>inotify</Shortcut>
       <Description>Code snippet to implement the PropertyChanged event handler and the OnPropertyChanged method</Description>
       <Author>Clément Plantec</Author>
       <SnippetTypes>
@@ -12,14 +12,13 @@
     </Header>
     <Snippet>
       <Code Language="csharp">
-        <![CDATA[// INotifyPropertyChanged
-#region INotifyPropertyChanged
+        <![CDATA[#region INotifyPropertyChanged
 
 public event PropertyChangedEventHandler PropertyChanged;
 protected void OnPropertyChanged([CallerMemberName] string propertyName = null) =>
 	PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
 
-#endregion // End INotifyPropertyChanged
+#endregion INotifyPropertyChanged
 	$end$]]>
       </Code>
     </Snippet>
