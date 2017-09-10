@@ -27,12 +27,16 @@
   /// <summary>
   /// 
   /// </summary>
-  [Description(""), Category("")]
-  // [Browsable(false)]
   public $type$ $property$
   {
-    get { return _$property$;}
-    set { Set(ref _$property$, value); }
+    get => _$property$;
+    set
+    {
+    	if(value != _$property$)
+		{
+			Set(ref _$property$, value);
+		}
+    }
   }
   $end$]]>
       </Code>
